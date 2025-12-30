@@ -5,7 +5,7 @@ A professional, responsive technology landing page built entirely with Semantic 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-> **Live Demo:** [Click here to view the live site](https://your-live-link-here.com)
+> **Live Demo:** [Click here to view the live site](https://sohaibak1.github.io/nextech-landing-page/)
 
 ## 📄 Project Overview
 **NexTech Solutions** is a high-fidelity, responsive landing page designed for a fictional technology company. 
@@ -15,8 +15,8 @@ This project serves as my **"Vanilla CSS Capstone"**—a final challenge to demo
 Unlike my WordPress background where themes handle the heavy lifting, every pixel here was styled manually to ensure a deep understanding of the browser rendering engine.
 
 ## 📸 Preview
-![NexTech Landing Page Preview](path/to/your/screenshot.png)
-*(Note: Replace this path with your actual screenshot location, e.g., ./assets/preview.png)*
+![NexTech Landing Page Preview](https://github.com/SohaibAK1/nextech-landing-page/blob/main/Landing%20page.png)
+
 
 ## ✨ Key Features
 * **Hero Section:** Full-width background with semi-transparent overlays and centered typography using absolute positioning.
@@ -29,7 +29,7 @@ Unlike my WordPress background where themes handle the heavy lifting, every pixe
 * **Structure:** Semantic HTML5
 * **Styling:** Pure CSS3 (No Frameworks)
 * **Fonts:** Google Fonts (Roboto / Open Sans)
-* **Icons:** FontAwesome (or whichever you used)
+* **Icons:** FontAwesome 
 
 ## 🧠 What I Learned
 Building this without Bootstrap forced me to solve common layout problems manually:
@@ -42,7 +42,7 @@ If you want to view the code structure:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/nextech-landing-page.git](https://github.com/your-username/nextech-landing-page.git)
+    git clone (https://github.com/SohaibAK1/nextech-landing-page.git)
     ```
 2.  Navigate to the project directory:
     ```bash
@@ -58,5 +58,4 @@ Now that I have solidified my understanding of raw CSS, my roadmap includes:
 
 ---
 
-**Author:** [Your Name]  
-**Connect with me:** [LinkedIn Profile URL]
+Author: Sohaib Akhtar  
